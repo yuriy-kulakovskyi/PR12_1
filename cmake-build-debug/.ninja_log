@@ -1,0 +1,20 @@
+# ninja log v6
+1	356	1732647376934852740	CMakeFiles/PR12_1.dir/src/main.cpp.o	e09736b475e76ac9
+1	380	1732647376935378427	CMakeFiles/PR12_1.dir/src/functions.cpp.o	7b96d78f690deaad
+380	474	1732647377313529970	PR12_1	9ccec12bd25f8fad
+5	405	1732647672800157974	CMakeFiles/PR12_1.dir/src/main.cpp.o	e09736b475e76ac9
+6	431	1732647672801166807	CMakeFiles/PR12_1.dir/src/functions.cpp.o	7b96d78f690deaad
+431	518	1732647673225367707	PR12_1	9ccec12bd25f8fad
+9	611	1732648201084606030	CMakeFiles/PR12_1_tests.dir/src/functions.cpp.o	ba8671968502b55b
+8	695	1732648201084339291	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	20abdac1b9da1246
+8	786	1732648201084477869	CMakeFiles/PR12_1_tests.dir/tests/test_h.cpp.o	1308941f82d04e73
+9	796	1732648201084726234	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	dbacf2150cd7b94d
+8	1083	1732648201084185714	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	b004bf0ae8ffb7f4
+8	1681	1732648201083712150	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	f26645cc3adc29f4
+1681	1743	1732648202757098511	lib/libgtest.a	b51b69e6de22023b
+1743	1763	1732648202819044591	lib/libgtest_main.a	ddd85a377c936fa9
+1743	1770	1732648202818834932	lib/libgmock.a	c8c98fe986cb389b
+1770	1788	1732648202845770034	lib/libgmock_main.a	c7b38932d055d06e
+1763	3390	1732648204463708007	PR12_1_tests	6d2c1768efe2f261
+1763	3390	1732648204463708007	PR12_1_tests[1]_tests.cmake	6d2c1768efe2f261
+1763	3390	1732648204463708007	/Users/yura_kulakovskyi/Documents/C++/AP/PR12/PR12_1_CPP/cmake-build-debug/PR12_1_tests[1]_tests.cmake	6d2c1768efe2f261
